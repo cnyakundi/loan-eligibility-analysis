@@ -25,7 +25,7 @@ Clone this project from https://github.com/cnyakundi/loan-eligibility-analysis
 
 # Support and contact details
 
-For any difficulties accessing the code, comments, concerns, ideas or any form of questions. Kindly contact us at cypriannyakundi@gmail.com,  jabinoganga.jo@gmail.com, franciskingk@gmail.com, 
+For any difficulties accessing the code, comments, concerns, ideas or any form of questions. Kindly contact us at cypriannyakundi@gmail.com,  jabinoganga.jo@gmail.com, franciskingk@gmail.com, joylynn199@gmail.com
 
 # License
 
